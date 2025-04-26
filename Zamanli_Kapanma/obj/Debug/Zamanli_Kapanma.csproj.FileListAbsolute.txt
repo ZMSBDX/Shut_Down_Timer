@@ -1,0 +1,10 @@
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\bin\Debug\Zamanli_Kapanma.exe.config
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\bin\Debug\Zamanli_Kapanma.exe
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\bin\Debug\Zamanli_Kapanma.pdb
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.csprojAssemblyReference.cache
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.Form1.resources
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.Properties.Resources.resources
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.csproj.GenerateResource.cache
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.exe
+C:\Users\muham\Documents\Programlama\C#\Dersler CSharp\Zamanli_Kapanma\obj\Debug\Zamanli_Kapanma.pdb
